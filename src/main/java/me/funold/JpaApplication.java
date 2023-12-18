@@ -1,4 +1,4 @@
-package me.funold.jpa;
+package me.funold;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
